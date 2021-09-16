@@ -2,3 +2,5 @@
 Keybinder for TimberMan
 
 AHK IS NOT VIRUS! 
+
+PASSWORD: rubydevs
